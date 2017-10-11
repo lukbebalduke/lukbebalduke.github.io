@@ -191,7 +191,7 @@ header.masthead {
 @media (min-width: 768px) {
   header.masthead {
 	background-image: url("../img/background.png");
-    background-color: #cccccc;
+    background-color: #0a0b0c;
 	background-size:cover;
 	
     padding-top: 60px;
